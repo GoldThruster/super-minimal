@@ -1,2 +1,3 @@
 # super-minimal
-"super-minimal" is a programming language (for now, just a concept) that aims to accomplish a Turing complete programming language using the least amount of primitives possible. This repo is dedicated to it's design.
+Designing such programming language is much more complex than it seems. This repo contains the choices made in its design, highlighting the compromises, reasons, and objectives considered.  
+The repo is public to receive everyone's opinion, so **feel free to open an issue and make your suggestion!**
